@@ -7,7 +7,5 @@
   "author": {
     "name": "Google LLC"
   },
-  "dependencies": {
-    "com.google.android.appbundle": "1.9.0"
-  }
+  "dependencies": {}
 }
